@@ -1,3 +1,3 @@
-# game-snake
-The Game Snake on JS Native
-Игра змейка на JS
+# Game Shake
+Игра змейка на JS.
+https://adamsparapet.github.io/game-snake/
